@@ -91,7 +91,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aparsak" alt="GitHub streak" />
 </p>
 
-<<p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
