@@ -84,14 +84,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aparsak&show_icons=true&locale=en" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aparsak&theme=nord&show_icons=true&locale=en" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aparsak" alt="GitHub streak" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aparsak&theme=nord" alt="GitHub streak" />
+</p>z
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
