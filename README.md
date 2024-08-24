@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aparsak&theme=nord" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aparsak&theme=nord&exclude_days=Fri" alt="GitHub streak" />
 </p>
 
 <p align="center">
