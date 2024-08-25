@@ -84,11 +84,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aparsak&theme=nord&show_icons=true&locale=en" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aparsak&theme=react&show_icons=true&locale=en" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aparsak&theme=nord&exclude_days=Fri" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aparsak&theme=react&exclude_days=Fri" alt="GitHub streak" />
 </p>
 
 <p align="center">
